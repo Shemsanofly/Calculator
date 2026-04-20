@@ -12,6 +12,7 @@ Practice logical thinking and problem-solving
 Understand how simple programs can evolve into more complex systems
 
 How to Run
+
 Option 1: Using Command Line (g++)
 Make sure you have a C++ compiler installed (like g++).
 Open terminal or command prompt.
